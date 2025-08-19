@@ -1,10 +1,10 @@
 # EduQuake — Mobil Deprem Bilgilendirme Uygulaması
 
-EduQuake, Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü'nün 4. sınıf Mobil Programlama dersi kapsamında geliştirilmiş bir mobil uygulamadır. Bu uygulama, kullanıcıların Türkiye'deki son depremler hakkında anlık bilgilere erişmelerini sağlar.
+EduQuake, Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü'nün 4. sınıf Mobil Programlama dersi kapsamında geliştirilmiş bir mobil uygulamadır.
 
 ## Proje Amacı
 
-EduQuake, kullanıcıların Türkiye'deki son depremler hakkında anlık bilgilere erişmelerini sağlayarak, afet bilincini artırmayı amaçlayan bir mobil uygulamadır.
+EduQuake, Deprem bölgesindeki eğitim süreçlerinin aksaması için öğretmenlerin öğrencileri ile ders materyalleri paylaşmasına imkan tanımayı amaçlayan bir mobil uygulamadır.
 
 ## Kullanılan Teknolojiler
 
